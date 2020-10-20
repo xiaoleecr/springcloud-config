@@ -1,6 +1,6 @@
 spring:
-  application:
-    name: cloud-payment-service-config-client
+#   application:
+#     name: cloud-payment-service-config-client
   datasource:
       type: com.alibaba.druid.pool.DruidDataSource          #当前数据源操作类型
      # driver-class-name: org.gjt.mm.mysql.Driver
