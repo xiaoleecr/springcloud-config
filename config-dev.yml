@@ -4,6 +4,6 @@
  # mapper-locations: classpath:mapper/*.xml  #mapper映射文件
 info:
   say: hello myconfig update version 5
-spring:
-  application:
-    name: cloud-config-client-nobootstrap1
+#spring:
+#  application:
+ #   name: cloud-config-client-nobootstrap1
