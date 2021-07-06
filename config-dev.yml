@@ -6,4 +6,4 @@ info:
   say: hello myconfig update version 5
 spring:
   application:
-    name: cloud-config-client-nobootstrap
+    name: cloud-config-client-nobootstrap1
