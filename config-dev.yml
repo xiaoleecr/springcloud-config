@@ -7,3 +7,6 @@ info:
 #spring:
 #  application:
  #   name: cloud-config-client-nobootstrap1
+eureka:
+  instance:
+    prefer-ip-address: true #eureka主页列表中显示具体ip地址和端口
